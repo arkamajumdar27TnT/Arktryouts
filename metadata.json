@@ -1,0 +1,5 @@
+{
+  "name": "ARKTryouts",
+  "description": "A virtual try-on application that uses AI to show you how an outfit would look on you. Simply upload a photo of yourself and a photo of the outfit to see the result.",
+  "requestFramePermissions": []
+}
